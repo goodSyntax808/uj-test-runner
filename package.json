@@ -1,0 +1,14 @@
+{
+  "name": "uj-jest-runner",
+  "version": "1.0.0",
+  "description": "A jest runner that reports energy usage of tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo hello world"
+  },
+  "keywords": [
+    "sustainability"
+  ],
+  "author": "Tom Harmon",
+  "license": "MIT"
+}
